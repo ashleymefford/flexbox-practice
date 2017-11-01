@@ -1,0 +1,38 @@
+.navbar {
+	display:flex;
+	background-color: grey;
+}
+
+.left-space {
+	flex:1;
+}
+
+.right-space{
+	flex:6;
+}
+
+.link {
+	flex:1;
+}
+
+.container {
+	display:flex;
+}
+
+.wall {
+	flex:1;
+}
+
+.main-content {
+	flex:6;
+}
+
+.right-navbar {
+	flex:2;
+
+}
+
+.border {
+	border: solid 2px blue;
+}
+
